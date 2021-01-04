@@ -1,4 +1,4 @@
-
+// コメントを入れます。
 const weatherForm = document.querySelector('form')
 const search = document.querySelector('input')
 const messgeOne = document.querySelector('#message-1')
